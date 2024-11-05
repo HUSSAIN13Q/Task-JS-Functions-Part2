@@ -1,3 +1,5 @@
+hello!
+
 # JS-Functions-Part2
 
 ## Instructions
